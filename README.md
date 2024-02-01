@@ -1,7 +1,7 @@
   <p align="center">  
-  <a href="https://secktoruserbot.onrender.com/">
-    <img alt="secktor docs" height="300" src="https://secktoruserbot.onrender.com/main.jpg">
-    <h1 align="center">Secktor MD Whatsapp bot</h1>
+  <a href="https://queensaduuserbot.onrender.com/">
+    <img alt="queensadu docs" height="300" src="https://secktoruserbot.onrender.com/main.jpg">
+    <h1 align="center">queensadu MD Whatsapp bot</h1>
   </a>
 </p>
    
@@ -19,7 +19,7 @@
  
 ---
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
+<p align="center"><img src="https://telegra.ph/file/a213b2b6e8792e716ef05.jpg" alt="SamPandey001 :: Visitor's Count" /></p>
 
   <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
  
@@ -27,7 +27,7 @@
  
    <p align="center">  
   <a href="https://www.youtube.com/watch?v=k-DOQiLNuig">
-    <img alt="secktor docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
+    <img alt="queen-sadu docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
     <h1 align="center">Tap on above Image</h1>
   </a>
 </p>
