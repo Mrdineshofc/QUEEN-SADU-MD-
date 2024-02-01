@@ -1,6 +1,6 @@
   <p align="center">  
   <a href="https://queensaduuserbot.onrender.com/">
-    <img alt="queensadu docs" height="300" src="https://secktoruserbot.onrender.com/main.jpg">
+    <img alt="queensadu docs" height="300" src="https://telegra.ph/file/a213b2b6e8792e716ef05.jpg">
     <h1 align="center">queensadu MD Whatsapp bot</h1>
   </a>
 </p>
@@ -11,7 +11,7 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
-  <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
+  <a aria-label="queensadu is free to use" href="https://github.com/Mrdineshofc/QUEEN-SADU-MD-.git" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
 </p>
@@ -21,7 +21,7 @@
 
 <p align="center"><img src="https://telegra.ph/file/a213b2b6e8792e716ef05.jpg" alt="SamPandey001 :: Visitor's Count" /></p>
 
-  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+  <p align="center"> Introducing queensadu,queensadu is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
  
  ***<p align="center"> Support us by subscribing our channel </p>***
  
